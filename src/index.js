@@ -13,8 +13,8 @@ import destination from '@turf/destination';
 import transformRotate from '@turf/transform-rotate';
 import transformScale from '@turf/transform-scale';
 
-var rotate = require('./img/rotate.png');
-var scale = require('./img/scale.png');
+import rotate from './img/rotate.png';
+import scale from './img/scale.png';
 
 export const SRMode = {}; //scale rotate mode
 
@@ -507,11 +507,11 @@ SRMode.onSetup = function (opts) {
   });
 
   var _this = this;
-  this.map.loadImage(rotate.default, function (error, image) {
+  this.map.loadImage(rotate, function (error, image) {
     if (error) throw error;
     _this.map.addImage('rotate', image);
   });
-  this.map.loadImage(scale.default, function (error, image) {
+  this.map.loadImage(scale, function (error, image) {
     if (error) throw error;
     _this.map.addImage('scale', image);
   });
