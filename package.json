@@ -37,5 +37,8 @@
   },
   "dependencies": {
     "@turf/turf": "5.1.6"
+  },
+  "publishConfig": {
+    "@beeinventor:registry": "https://npm.pkg.github.com"
   }
 }
