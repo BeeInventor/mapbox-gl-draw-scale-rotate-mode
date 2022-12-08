@@ -1,5 +1,5 @@
 {
-  "name": "mapbox-gl-draw-scale-rotate-mode",
+  "name": "@beeinventor/mapbox-gl-draw-scale-rotate-mode",
   "version": "0.1.1",
   "description": "A custom mode for MapboxGL Draw to scale and rotate features",
   "main": "dist/index.js",
