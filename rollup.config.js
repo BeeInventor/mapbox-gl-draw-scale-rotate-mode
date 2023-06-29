@@ -18,5 +18,6 @@ export default [
       name: 'ScaleRotateMode',
       sourcemap: process.env.NODE_ENV !== 'production',
     },
+    external: ['@mapbox/mapbox-gl-draw', '@turf/turf']
   },
 ];
