@@ -1,6 +1,6 @@
 {
   "name": "@beeinventor/mapbox-gl-draw-scale-rotate-mode",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A custom mode for MapboxGL Draw to scale and rotate features",
   "main": "dist/index.js",
   "module": "src/index.js",
@@ -32,11 +32,9 @@
     "@rollup/plugin-node-resolve": "15.0.1",
     "rollup": "^3.7.0"
   },
-  "peerDependencies": {
-    "@mapbox/mapbox-gl-draw": "1.2.0"
-  },
   "dependencies": {
-    "@turf/turf": "5.1.6"
+    "@turf/turf": "5.1.6",
+    "@mapbox/mapbox-gl-draw": "1.2.0"
   },
   "publishConfig": {
     "@beeinventor:registry": "https://npm.pkg.github.com"
