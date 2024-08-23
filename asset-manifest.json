@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/mapbox-gl-draw-scale-rotate-mode/static/css/main.8dfb7478.chunk.css",
-    "main.js": "/mapbox-gl-draw-scale-rotate-mode/static/js/main.4ff77c17.chunk.js",
-    "main.js.map": "/mapbox-gl-draw-scale-rotate-mode/static/js/main.4ff77c17.chunk.js.map",
-    "runtime-main.js": "/mapbox-gl-draw-scale-rotate-mode/static/js/runtime-main.2e47b8dc.js",
-    "runtime-main.js.map": "/mapbox-gl-draw-scale-rotate-mode/static/js/runtime-main.2e47b8dc.js.map",
+    "main.js": "/mapbox-gl-draw-scale-rotate-mode/static/js/main.8a9ced54.chunk.js",
+    "main.js.map": "/mapbox-gl-draw-scale-rotate-mode/static/js/main.8a9ced54.chunk.js.map",
+    "runtime-main.js": "/mapbox-gl-draw-scale-rotate-mode/static/js/runtime-main.0e546545.js",
+    "runtime-main.js.map": "/mapbox-gl-draw-scale-rotate-mode/static/js/runtime-main.0e546545.js.map",
     "static/css/2.dbeb0df7.chunk.css": "/mapbox-gl-draw-scale-rotate-mode/static/css/2.dbeb0df7.chunk.css",
-    "static/js/2.83bac981.chunk.js": "/mapbox-gl-draw-scale-rotate-mode/static/js/2.83bac981.chunk.js",
-    "static/js/2.83bac981.chunk.js.map": "/mapbox-gl-draw-scale-rotate-mode/static/js/2.83bac981.chunk.js.map",
-    "static/js/3.e4866829.chunk.js": "/mapbox-gl-draw-scale-rotate-mode/static/js/3.e4866829.chunk.js",
-    "static/js/3.e4866829.chunk.js.map": "/mapbox-gl-draw-scale-rotate-mode/static/js/3.e4866829.chunk.js.map",
+    "static/js/2.bf119d0e.chunk.js": "/mapbox-gl-draw-scale-rotate-mode/static/js/2.bf119d0e.chunk.js",
+    "static/js/2.bf119d0e.chunk.js.map": "/mapbox-gl-draw-scale-rotate-mode/static/js/2.bf119d0e.chunk.js.map",
+    "static/js/3.39f01c0d.chunk.js": "/mapbox-gl-draw-scale-rotate-mode/static/js/3.39f01c0d.chunk.js",
+    "static/js/3.39f01c0d.chunk.js.map": "/mapbox-gl-draw-scale-rotate-mode/static/js/3.39f01c0d.chunk.js.map",
     "index.html": "/mapbox-gl-draw-scale-rotate-mode/index.html",
     "static/css/2.dbeb0df7.chunk.css.map": "/mapbox-gl-draw-scale-rotate-mode/static/css/2.dbeb0df7.chunk.css.map",
     "static/css/main.8dfb7478.chunk.css.map": "/mapbox-gl-draw-scale-rotate-mode/static/css/main.8dfb7478.chunk.css.map",
-    "static/js/2.83bac981.chunk.js.LICENSE.txt": "/mapbox-gl-draw-scale-rotate-mode/static/js/2.83bac981.chunk.js.LICENSE.txt",
+    "static/js/2.bf119d0e.chunk.js.LICENSE.txt": "/mapbox-gl-draw-scale-rotate-mode/static/js/2.bf119d0e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/mapbox-gl-draw-scale-rotate-mode/static/media/rotate.0a66ecca.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e47b8dc.js",
+    "static/js/runtime-main.0e546545.js",
     "static/css/2.dbeb0df7.chunk.css",
-    "static/js/2.83bac981.chunk.js",
+    "static/js/2.bf119d0e.chunk.js",
     "static/css/main.8dfb7478.chunk.css",
-    "static/js/main.4ff77c17.chunk.js"
+    "static/js/main.8a9ced54.chunk.js"
   ]
 }
